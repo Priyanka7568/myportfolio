@@ -1,12 +1,10 @@
 import React from "react";
-import workImg from "../assets/images/workImg.jpeg";
-import realEstate from "../assets/images/realestate.jpg";
 import workList from "../assets/JSON/workList";
 
 function Work() {
   return (
-    <div name="work" className="w-full md:h-screen bg-[#0a192f] text-gray-300">
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+    <div name="work" className="w-full bg-[#0a192f] text-gray-300 sm_padding_top">
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-pink-600">
             Work

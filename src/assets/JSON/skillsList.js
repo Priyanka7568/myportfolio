@@ -1,8 +1,7 @@
 const SkillsList = [
   {
     id: 0,
-    name: "Weather Report App",
-    technology: "React JS",
+    name: "HTML",
     image: require("../images/skill/html.png"),
   },
   {

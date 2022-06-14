@@ -84,7 +84,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               href="https://www.linkedin.com/in/priyanka-meena/"
-              target="./blank"
+              target="_blank"
               className="flex justify-between items-center w-full text-gray-300"
             >
               Linkedin
@@ -94,7 +94,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               href="https://github.com/Priyanka7568"
-              target="./blank"
+              target="_blank"
               className="flex justify-between items-center w-full text-gray-300"
             >
               Github
@@ -113,7 +113,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               href="https://drive.google.com/file/d/1CV12A0VaQWPuUFIN1JphUVkf51_qjoFj/view?usp=sharing"
-              target="./blank"
+              target="_blank"
               className="flex justify-between items-center w-full text-gray-300"
             >
               Resume
